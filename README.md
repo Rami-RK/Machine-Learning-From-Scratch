@@ -3,7 +3,7 @@
 
 I have created this repository solely for learners, who often struggle to find Machine Learning Algorithms explained in simple and implemented from scratch. I haven’t used Scikit-Learn or any other advanced ML library (for core ML implementation) .  Understanding underlying Mathematics and Algorithm is a must for any Machine Learning Practicenor /Enthusiast. Keeping that in mind I have implemented all the classical M.L. Algorithm using Python, NumPy, and a few Pandas. I have included slides explanation notes as much as  possible. This repository is still under construction but I am continuously working on it and you will find it complete soon. The following are the topics and I believe readers should learn in this given order of precedence (at least while learning for the first time).
 
-#### 1) Linear Regression with Gradient Descent (Multivariable/Polynomial)
+#### 1) Linear Regression with Gradient Descent (Single/Multivariable/Polynomial)
 #### 2) Logistic Regression (Linear/Non-Linear Decision Boundary)
 #### 3) Softmax Regression for Multiclass Classification
 #### 4) Generative Approach to Classification & Naïve Bayes
