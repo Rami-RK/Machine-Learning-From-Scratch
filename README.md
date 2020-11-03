@@ -11,5 +11,4 @@ I have created this repository solely for learners, who often struggle to find M
 #### 6) Kmeans -Clustering
 #### 7) Decision Tree
 #### 8) Ensemble Learning and Random Foreset
-#### 9) Ada-Boost, XG-Boost, Gradient Boosting
-#### 10) SVM
+#### 9) Ada-Boost, Gradient Boosting
